@@ -7,6 +7,9 @@
     "test": "jest"
   },
   "dependencies": {
+    "eslint-plugin-import": "^1.16.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.10.3",
     "react": "16.6.3",
     "react-native": "0.57.8"
   },
